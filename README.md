@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Puja Tiwari
 
 ## 🚀 About Me
-Data Science Engineer at RaptorTech PTY LTD with 1+ years of experience building scalable data pipelines and processing systems for mining operations across Australia.
+Data Science Engineer at RaptorTech PTY LTD with 2+ years of experience building scalable data pipelines and processing systems for mining operations across Australia.
 
 ## 💼 What I Do
 - 🏗️ Build and maintain data processing APIs using **Python & FastAPI**
